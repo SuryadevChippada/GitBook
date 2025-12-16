@@ -11,5 +11,6 @@
 
 * [About](about.md)
 * [Experience](experience.md)
+* [Resume](resume.md)
 * [Skills](skills.md)
 * [Contact](contact.md)
