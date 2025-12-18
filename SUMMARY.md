@@ -1,12 +1,6 @@
 # Table of contents
 
 * [Hi, I'm Suryadev Chippada](README.md "Welcome !")
-* [About](about.md)
-
-## Projects
-
-* [FLARE @ TU Darmstadt](projects/flare-tu-darmstadt.md)
-* [All Projects](projects/all-projects.md)
 
 ## Blog
 
@@ -14,7 +8,5 @@
 
 ***
 
-* [Experience](experience.md)
-* [Skills](skills.md)
 * [Resume](resume.md)
 * [Contact](contact.md)
