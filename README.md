@@ -18,8 +18,6 @@ layout:
 
 # Blog
 
-## Blog
-
 Short, useful updates. No fluff.
 
 <a href="./#subscribe" class="button primary" data-icon="envelope">Subscribe</a> <a href="./#latest" class="button secondary" data-icon="clock">Latest posts</a>
