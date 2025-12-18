@@ -5,10 +5,6 @@ icon: magnifying-glass
 
 # The Baader–Meinhof Phenomenon: Why You Suddenly See That Thing Everywhere
 
-```md
-Published on: 18/12/2025
-```
-
 **Ever learned a new word, bought a specific car model, or discovered a new band, and suddenly it feels like you’re seeing or hearing it everywhere?**
 
 You’re not losing your mind. What you’re experiencing is the <mark style="color:orange;">**Baader–Meinhof Phenomenon**</mark>, also called the <mark style="color:orange;">**Frequency Illusion**</mark>.
