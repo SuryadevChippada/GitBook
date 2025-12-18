@@ -1,3 +1,7 @@
+---
+icon: minus
+---
+
 # About
 
 ## About
