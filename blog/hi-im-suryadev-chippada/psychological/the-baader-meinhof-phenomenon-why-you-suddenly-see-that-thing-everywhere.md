@@ -1,8 +1,9 @@
 ---
 description: Why something feels more common after you notice it once.
+icon: magnifying-glass
 ---
 
-# 🔍 The Baader–Meinhof Phenomenon: Why You Suddenly See That Thing Everywhere
+# The Baader–Meinhof Phenomenon: Why You Suddenly See That Thing Everywhere
 
 **Ever learned a new word, bought a specific car model, or discovered a new band, and suddenly it feels like you’re seeing or hearing it everywhere?**
 
