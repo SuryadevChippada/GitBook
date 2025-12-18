@@ -1,6 +1,6 @@
 ---
 description: Frequency Illusion
-icon: minus
+icon: brain
 ---
 
 # The Baader-Meinhof Phenomenon

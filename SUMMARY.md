@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hi, Im Suryadev Chippada](README.md "Welcome !")
+* [Hi, I'm Suryadev Chippada](README.md "Welcome !")
 * [About](about.md)
 
 ## Projects

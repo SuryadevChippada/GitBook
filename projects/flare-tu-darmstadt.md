@@ -1,5 +1,5 @@
 ---
-icon: minus
+icon: plane
 ---
 
 # FLARE @ TU Darmstadt
