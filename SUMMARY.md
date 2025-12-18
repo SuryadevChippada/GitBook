@@ -1,12 +1,6 @@
 # Table of contents
 
-* [Hi, I'm Suryadev Chippada](README.md "Welcome !")
-
-## Blog
-
-* [The Baader-Meinhof Phenomenon](blog/the-baader-meinhof-phenomenon.md)
-
-***
-
-* [Resume](resume.md)
-* [Contact](contact.md)
+* [Blog](README.md)
+  * [Welcome to the Blog](blog/welcome-to-the-blog.md)
+  * [How we write posts](blog/how-we-write-posts.md)
+  * [The Baader–Meinhof Phenomenon: Why You Suddenly See That Thing Everywhere](blog/the-baader-meinhof-phenomenon-why-you-suddenly-see-that-thing-everywhere.md)
