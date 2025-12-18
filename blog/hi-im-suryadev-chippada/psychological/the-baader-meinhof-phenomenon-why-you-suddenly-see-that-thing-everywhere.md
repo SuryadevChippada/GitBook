@@ -1,125 +1,80 @@
 ---
 description: Why something feels more common after you notice it once.
+icon: magnifying-glass
 ---
 
 # The Baader–Meinhof Phenomenon: Why You Suddenly See That Thing Everywhere
 
-Have you ever learned a new word, bought a specific car model, or discovered a new band, and then you start seeing or hearing it everywhere?
+**Ever learned a new word, bought a specific car model, or discovered a new band, and suddenly it feels like you’re seeing or hearing it everywhere?**
 
-You’re not losing your mind.
-
-What you’re experiencing is the **Baader–Meinhof Phenomenon**, also called the **Frequency Illusion**.
+You’re not losing your mind. What you’re experiencing is the <mark style="color:orange;">**Baader–Meinhof Phenomenon**</mark>, also called the <mark style="color:orange;">**Frequency Illusion**</mark>.
 
 ***
 
-### So, what is the frequency illusion?
+#### ⚡ What Is the Frequency Illusion?
 
-The **Frequency Illusion** happens when something you’ve recently noticed suddenly feels like it’s popping up all the time.
+The <mark style="color:orange;">**Frequency Illusion**</mark> happens when something you’ve recently noticed <mark style="color:orange;">**suddenly feels like it’s popping up all the time**</mark>.
 
-In reality, its frequency hasn’t changed.
+* In reality, its actual frequency **hasn’t changed**.
+* You’ve simply become **more aware** of it.
 
-You’ve just become more aware of it.
+Researchers describe this as a <mark style="color:orange;">**gap between objective reality and subjective experience**</mark>.
 
-Researchers describe this as a gap between **objective reality** and **subjective experience**.
+We often judge frequency based on <mark style="color:orange;">**how easily examples come to mind**</mark>, a mental shortcut psychologists call the <mark style="color:orange;">**availability heuristic**</mark>.
 
-We often judge frequency based on how easily examples come to mind.
-
-Psychologists call that the **availability heuristic**.
-
-If it’s easy to remember, it _feels_ more frequent.
+> If it’s easy to remember, it feels more frequent.
 
 ***
 
-### What’s going on in your brain?
+#### 🧠 What’s Happening in Your Brain?
 
-This isn’t just attention.
+This isn’t just about paying attention — <mark style="color:orange;">**deeper mental processes**</mark> are at work:
 
-A few deeper mental processes are at work.
+1. **Filtering information:**\
+   Your brain ignores most information. When something becomes relevant, like a new word or car, your brain flags it as important, and you start noticing it more.
+2. **Collecting “evidence”:**\
+   After seeing it a few times, your brain thinks:\
+   &#xNAN;_“See? I knew it. It really is everywhere.”_
 
-First, your brain filters most information out.
+Research also shows we <mark style="color:orange;">**overestimate rare events and underestimate common ones**</mark>, which makes the illusion feel stronger.
 
-When something becomes relevant—like a word you learned or a car you bought—your brain flags it as important.
+Some psychologists don’t call this “irrational.”
 
-Then you start noticing it more.
-
-Second, after a few sightings, your brain starts collecting “evidence”:
-
-> “See? I knew it. It really _is_ everywhere.”
-
-Research also shows we overestimate rare events and underestimate common ones.
-
-That mix makes the illusion feel even stronger.
-
-Not all researchers call this “irrational.”
-
-Some argue it’s a reasonable guess from limited information.
-
-Your brain isn’t broken.
-
-It’s making fast calls with incomplete data.
+> Your brain is simply **making fast guesses with incomplete information**.
 
 ***
 
-### Proof that this happens in real life
+#### 📊 Real-Life Proof
 
-This effect isn’t just anecdotal.
+This effect isn’t just anecdotal:
 
-Researchers analyzed Dutch publications across more than a century.
-
-People regularly claimed certain words were “suddenly everywhere.”
-
-When compared to usage data, most claims were illusions.
-
-Other studies found something counterintuitive.
-
-The more common something actually is, the worse we are at judging its frequency.
-
-Our perception doesn’t scale linearly.
-
-It flattens out.
-
-Once something passes a threshold, our brain just labels it “a lot.”
+* Researchers analyzed Dutch publications over a century. People often claimed certain words were <mark style="color:orange;">**suddenly everywhere.**</mark> When compared to actual usage data, most of these claims were illusions.
+* Other studies found something counterintuitive: the **more common something is, the worse we are at judging its frequency**. Our perception **flattens out**, labeling frequent things simply as “a lot.”
 
 ***
 
-### Why this matters
+#### ⚠️ Why This Matters
 
-This isn’t just a fun fact.
+The Baader–Meinhof Phenomenon isn’t just a fun fact; it <mark style="color:orange;">**affects real decisions**</mark>:
 
-It affects real decisions.
-
-We judge trends, risks, popularity, and even truth based on how often we _think_ we encounter something.
-
-Repeated information also feels more believable, even when it’s false.
-
-Combine that with the Frequency Illusion.
-
-Now certain ideas can feel dominant, even if they aren’t.
-
-Algorithms and social feeds amplify repetition.
-
-So this effect hits harder than ever.
+* We judge trends, risks, and popularity based on how often we think we encounter something.
+* Repeated information feels <mark style="color:orange;">**more believable**</mark>, even if it’s false.
+* Social feeds and algorithms <mark style="color:orange;">**amplify repetition**</mark>, making the effect even stronger.
 
 ***
 
-### The big takeaway
+#### 💡 The Big Takeaway
 
-The Baader–Meinhof Phenomenon is a reminder that **perception isn’t reality**.
+The Baader–Meinhof Phenomenon is a reminder: <mark style="color:orange;">**perception isn’t reality**</mark>.
 
-Our brains are great at finding patterns.
-
-Sometimes they turn the volume up too high.
+Our brains are amazing at finding patterns; they just <mark style="color:orange;">**turn the volume up too high**</mark>.
 
 Next time you think:
 
 > “Why am I seeing this everywhere all of a sudden?”
 
-Ask:
+Ask yourself:
 
-> “Did it become more common—or did I just learn to notice it?”
+> “Did it really become more common — or did I just learn to notice it?”
 
-Chances are it was always there.
-
-You just unlocked it in your awareness.
-
-That’s completely normal.
+Chances are, it was **always there**. You just **unlocked it in your awareness,** and that’s completely normal.
