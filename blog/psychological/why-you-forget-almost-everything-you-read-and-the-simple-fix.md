@@ -16,7 +16,9 @@ layout:
     visible: true
 ---
 
-# Why You Forget Almost Everything You Read And the Simple Fix
+# Why You Forget Almost Everything You Read, And the Simple Fix
+
+<figure><img src="../../.gitbook/assets/System for Remembering Everything You Read (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Have you ever finished a page, a chapter, or even an entire book only to realize you can’t remember _anything_ you just read?
 
